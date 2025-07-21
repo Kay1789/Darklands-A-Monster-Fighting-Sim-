@@ -40,6 +40,7 @@ auto getCharInfo(CharType ct) {
         case Warrior: return "Warrior";
         case Mage: return "Mage";
         case Assassin: return "Assassin";
+        default: return "That's a class I've never heard of";
     }
 };
 
