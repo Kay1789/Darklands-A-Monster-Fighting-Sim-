@@ -122,7 +122,7 @@ auto getMonsterAttackInfo(AttackType mat) {
 }
 
 // Global variables for health and damage
-int healthC = 100;  // Player health (intentionally high for testing)
+int healthC = 100;  // Player health
 int healthM = 100;   // Monster health
 int dmgC;            // Player damage dealt
 int dmgM;            // Monster damage dealt
